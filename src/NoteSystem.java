@@ -17,7 +17,7 @@ public class NoteSystem {
             if (listOfFiles[i].isFile() && listOfFiles[i].getName().contains(".txt")) {
                 Note note = new Note(listOfFiles[i]);
                 notes.put(note.getName(),note);
-            }
+            } 
         }
     }
     
@@ -35,7 +35,7 @@ public class NoteSystem {
     // Generate report of notes organized by mentions
     public void report2() {
         System.out.println("Notes organized by mentions:");
-        for (String noteName: notes.keySet()) {
+        for (String noteName: notes.keySet()) { 
             Note note = notes.get(noteName);
             if (note.hasMentions()) {
                 note.displayMentions();
