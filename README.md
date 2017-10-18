@@ -4,6 +4,22 @@ HW2 Team Assignment.
 Functional Requirements: https://docs.google.com/document/d/1ne76NKbbJQZZfn9gr0Ll6qXji_w85t_m6EUWgtwFqds/edit 
 _______________________________________________________________________________________
 
+#How to Run Program In Cloud9.
+
+1. Open Cloud9 Repo for Team AB. 
+2. On the left hand side, open the 2 files, NoteSystem.java and Note.java.
+3. Click Run when you're in the NoteSystem.java folder. 
+4. Type numerical value into the menu
+5. Look at output that is generated.
+
+____________________________________________________________________________
+
+#How to Run Program using GUI (Full Program + Functionality)
+
+1. Download the latest GitHub repo (Available in our Basecamp Docs + Resources folder)
+2. Open in an IDE other than Cloud9 (GUI + some libraries aren't compatible with cloud9) (We recommend Netbeans IDE)
+3. FILL THIS IN WITH HOW TO RUN THE PROGRAM FROM THIS STEP
+____________________________________________________________________________
 Homework 2 has an even more limited specification than Homework 1. In Homework 1, you were actually given some idea of what to expect. In Homework 2, your mission is to show that you can come up with something interesting to do to improve Homework 1. As you have noticed by now, we are merging teams of 2 to form teams of 4 (or 5), which will likely result in some spirited discussions about what to keep vs. throw away from your work on Homework 1.
 
 Your mission is simple. You must come up with five (5) meaningful improvements (as a new team) to the notetaking system we have created in Homework 1. You may even find yourself having to finish some of the work that was left undone in Homework 1.
